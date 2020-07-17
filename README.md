@@ -1,3 +1,9 @@
+# basicReactApp
+
+Used for learning how to deploy to Heroku from GitHub, as per this [Guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
+
+Master branch is automatically deployed to:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
