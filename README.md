@@ -1,6 +1,6 @@
 # basicReactApp
 
-Used for learning how to deploy to Heroku from GitHub, as per this [Guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
+Used for learning how to deploy to Netlify from GitHub, as per this [Guide](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/).
 
 Master branch is automatically deployed to: https://basic-react-app.netlify.app/
 
